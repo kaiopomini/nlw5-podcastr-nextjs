@@ -27,7 +27,7 @@
     font-size: 93.75%; // 15px - diminui a fonte root quando a tela for menor que 1080px, progando proporcionalmente para todos os lugares onde a fonte foi aplicada com unidade de medida rem
   }
 }
-@media (max-width: 1080px) {
+@media (max-width: 720px) {
   html {
     font-size: 87.5%; // 14px 
   }
